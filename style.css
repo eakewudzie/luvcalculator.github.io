@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url("./Images/two-red-hearts-drops-water-69-wallpaper-preview.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#content-container{
+    width: 400px;
+    height: 450px;
+    background-color: whitesmoke;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    
+
+}
+
+#calculate{
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    background-color: rgb(148, 4, 4);
+    color: white;
+    font-size: 16px;
+    border-radius: 10px;
+    border: none;
+}
+
+#result-percentage {
+    font-size: 50px;
+}
+

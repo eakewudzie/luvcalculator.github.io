@@ -3,7 +3,7 @@ body{
     text-align: center;
     background-image: url("./Images/two-red-hearts-drops-water-69-wallpaper-preview.jpg");
     background-size: cover;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
 
 }
 
@@ -15,7 +15,6 @@ body{
     margin: 0 auto;
     margin-top: 50px;
     border-radius: 10px;
-    object-fit: cover;
     
 
 }
